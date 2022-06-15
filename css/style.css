@@ -1,0 +1,21 @@
+.separador {
+    background-color: #c67210;
+    height: 5px;
+
+}
+
+footer {
+    background-color: #c67210;
+    color: white;
+    font-weight: 600;
+}
+
+.nav-link {
+    font-weight: 600;
+
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: darkorange;
+}
+
